@@ -1,5 +1,9 @@
-Hello Everyone!
+# Git Workflow
 
-Hope we all are getting with the flow about git.
+## GfG Batch 3
 
-New changes for Pull Request
+Hello **Everyone**!
+
+Hope we all are *getting with the flow* about **Git**.
+
+New changes for **Pull Request**!
