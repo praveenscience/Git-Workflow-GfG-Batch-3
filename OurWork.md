@@ -4,6 +4,6 @@
 
 Hello **Everyone**!
 
-Hope we all are *getting with the flow* about **Git**.
+**Hope** we all are *getting with the flow* about **Git**.
 
 New changes for **Pull Request**!
